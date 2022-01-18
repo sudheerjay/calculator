@@ -11,13 +11,11 @@ Steps to run this micro-service on local:
 
 ./gradlew clean build
 
--> the above step will create a jar file with name "personhandler-0.0.1-SNAPSHOT.jar" under /build/libs. -> this jar can be used for containerisation of this app on docker.
-
 Running this app:
 
 ./gradlew bootRun
 
-once the app is up and running, you can verify it by access with localhost:8082/console.
+once the app is up and running, you can verify it by access with localhost:8082/h2-console.
 
 login to app: username : user and password: it's generated while app starts.
 
