@@ -3,11 +3,9 @@ This repository provides APIs to perform basic calulator oprations
 
 This app runs on port:8082
 
-This app provides a service to maintain person records in in-memory H2 database. To login to H2 DB, you need to start the App and access "http://localhost:8082/console/"
+This app provides a service to maintain calculations done as records in in-memory H2 database. To login to H2 DB, you need to start the App and access "http://localhost:8082/h2-console/"
 
-pre-requisires: java8,
-
-local machine should have docker installed.
+pre-requisires: java11
 
 Steps to run this micro-service on local:
 
