@@ -1,4 +1,4 @@
-# calculator
+# calculator (Logging and exception handling couldnt be done due to time constraints). I will add them later.
 This repository provides APIs to perform basic calulator oprations
 
 This app runs on port:8082
